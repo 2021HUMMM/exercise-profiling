@@ -20,4 +20,8 @@
 - Summary Report: </br>
   <img width="1280" alt="Summary Report" src="https://github.com/user-attachments/assets/90498d9e-cf88-4f5a-b846-0b447ba08540" />
 
-
+## Command line test result
+1. all-students-name: </br>
+<img width="1280" alt="all-students-name" src="https://github.com/user-attachments/assets/46c2ce05-d803-4ee2-b2de-92e6647bff23" />
+2. highest-gpa: </br>
+<img width="1280" alt="highest-gpa" src="https://github.com/user-attachments/assets/f8180224-21b7-495c-ab24-cd56ce77cf20" />
